@@ -1,0 +1,19 @@
+{
+  "name": "bibi-eight",
+  "version": "1.0.0",
+  "description": "meu cartão de visitas",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bibi-eight"
+  ],
+  "author": "Brenda Brito",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
