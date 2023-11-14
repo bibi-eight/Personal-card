@@ -2,7 +2,7 @@ import colors from 'colors';
 import data from './data.js';
 
 const style = colors.setTheme({
-    title: ['rainbow', 'bgWhite']
+    title: ['rainbow', 'bgBlack']
 });
 
 const text = data.title;
